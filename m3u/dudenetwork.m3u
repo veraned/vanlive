@@ -39,3 +39,17 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Veely_EPGReal Wild" tvg-name="Real Wild" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1061.png?width=700&lang=en" group-title="Veely",Real Wild
 https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8
+#EXTINF:-1,Infowars
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_source/chunks.m3u8
+#EXTINF:-1,The Three Stooges+ (Geo)
+https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8
+#EXTINF:-1,BBC Food
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
+#EXTINF:-1,Bon Appétit (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/condenast-bonappetit-vizio/playlist.m3u8
+#EXTINF:-1,Nick Jr. by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1,Nick by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
