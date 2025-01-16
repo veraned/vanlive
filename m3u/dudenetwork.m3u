@@ -61,3 +61,21 @@ https://amg01583-localnow-amg01583c13-lg-us-1421.playouts.now.amagi.tv/playlist/
 https://amg01583-localnow-amg01583c10-lg-us-1419.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtampa-lgus/playlist.m3u8
 #EXTINF:-1,LocalNow - Seattle (US) Geo
 https://amg01583-localnow-amg01583c15-lg-us-1425.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowseattle-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/46xqGOwHbh2TH2avWSw3SMXph4E.jpg" group-title="USA", CA Adult Swim R Backup NO_6 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/11644?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Cartoon Network Backup NO_11 alliptvlinks.com
+http://84.17.40.25/CARTOON_NETWORK/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS", US FOX 11 (KTTV) Los Angeles Backup NO_9 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/120655?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Hallmark Drama Backup NO_12 alliptvlinks.com
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US HBO Family alliptvlinks.com
+http://212.102.60.231/HBO_FAMILY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MeTV Toons alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MTV Classic alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US TBS Backup NO_7 alliptvlinks.com
+http://fl1.moveonjoy.com/TBS/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | TVLand alliptvlinks.com
+http://fl2.moveonjoy.com/TV_Land/index.m3u8?checkedby:alliptvlinks.com
