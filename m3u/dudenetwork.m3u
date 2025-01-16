@@ -17,8 +17,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/MST3K_16x9_300x300_R.png" group-title="RedBox🇺🇸: Comedy",MST3K
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
-#EXTINF:-1,Adventures of Sonic the Hedgehog Channel
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3968
 #EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment",Adult Swim Channel 5 (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
 #EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment",Adult Swim Infomercials (1080p) [Geo-blocked]
@@ -105,3 +103,101 @@ http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="github", US Animal Planet Backup NO_10 alliptvlinks.com
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-country="US" group-title="News", BBC News Backup NO_1 alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", CA Turner Classic Movies Backup NO_5 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/66242?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="Kids", DISNEY XD Backup NO_2 alliptvlinks.com
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DELUXE", MGM HITS (US) alliptvlinks.com
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12759?checkedby:alliptvlinks.com
+#EXTINF:-1, US | ABC Backup NO_1 alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419890?checkedby:alliptvlinks.com
+#EXTINF:-1, US BBC America Backup NO_10 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/20194?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US BET Her Backup NO_6 alliptvlinks.com
+http://212.102.60.231/BET_HER/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US Big Ten HD Backup NO_9 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9828?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Bounce alliptvlinks.com
+http://72.46.118.193/Bounce/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US Bravo (East) Backup NO_9 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/20859?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US CBS Boston alliptvlinks.com
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US CBS Sports Network HD Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/10454?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="SAMSUNG", USA TYT NETWORK alliptvlinks.com
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA DOCURAMA alliptvlinks.com
+https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de4e0b3f5003f5d9f73&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA DOVE CHANNEL alliptvlinks.com
+https://dovenow-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de8e0b3f5003f5d9f91&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA DOCURAMA alliptvlinks.com
+https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de4e0b3f5003f5d9f73&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA COMEDY DYNAMICS alliptvlinks.com
+https://comedydynamics-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-comedydynamics-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de5e0b3f5003f5d9f76&checkedby:alliptvlinks.com
+#EXTINF:-1, USA: CMT Backup NO_9 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46706?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", USA CHEDDAR NEWS alliptvlinks.com
+https://12231a625c714bb0ba99de904ad39daa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cheddar/playlist.m3u8?ads.wurl_channel=581&ads.wurl_name=Cheddar&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5f6b8e5900b0950040d0f2af&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="US | ABC NETWORK", USA | ABC NEWS 9 alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=183981&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1, US Universal Kids (A) Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9235?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US TLC alliptvlinks.com
+http://fl2.moveonjoy.com/TLC/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US SUNDANCE Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46712?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Starz alliptvlinks.com
+http://fl2.moveonjoy.com/STARZ/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US Smithsonian Channel (East) Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/31150?checkedby:alliptvlinks.com
+#EXTINF:-1, US Showtime East Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46214?checkedby:alliptvlinks.com
+#EXTINF:-1, US Paramount Network Backup NO_12 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/16201?checkedby:alliptvlinks.com
+#EXTINF:-1, US Oxygen (East) Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9245?checkedby:alliptvlinks.com
+#EXTINF:-1, US | NBC alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419895?checkedby:alliptvlinks.com
+#EXTINF:-1, US Nat Geo Wild East (A) Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/11664?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Investigation Discovery Backup NO_1 alliptvlinks.com
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US HGTV alliptvlinks.com
+http://fl2.moveonjoy.com/HGTV/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US HBO Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/9264?checkedby:alliptvlinks.com
+#EXTINF:-1, US Golf Channel Backup NO_14 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46728?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="USA", US Game Show Network Backup NO_9 alliptvlinks.com
+http://tvmate.icu:8080/vNay0H/219352/120633?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US FXX alliptvlinks.com
+http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Freeform alliptvlinks.com
+http://212.102.60.231/FREE_FORM/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Food Network alliptvlinks.com
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US ESPNU alliptvlinks.com
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US ESPN 2 Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/2210?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Disney Junior alliptvlinks.com
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Disney Channel alliptvlinks.com
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Cozi TV alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/509090?checkedby:alliptvlinks.com
+#EXTINF:-1, US Court TV Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/21092?checkedby:alliptvlinks.com
+#EXTINF:-1, US Comet (S) Backup NO_15 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/66244?checkedby:alliptvlinks.com
+#EXTINF:-1, US Comedy Central (East) Backup NO_5 alliptvlinks.com
+http://cord-cutter.net:8080/hq3y4G/234247/7466?checkedby:alliptvlinks.com
+#EXTINF:-1, US CNN Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/104884?checkedby:alliptvlinks.com
+#EXTINF:-1, US CNBC Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/9815?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Cinemax alliptvlinks.com
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8?checkedby:alliptvlinks.com
