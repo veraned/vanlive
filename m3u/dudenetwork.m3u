@@ -205,3 +205,5 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8?checkedby:alliptvlinks.com
 http://tvmate.icu:8080/vNay0H/219352/46697?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="github", US USA Network alliptvlinks.com
 http://fl2.moveonjoy.com/USA_Network/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="China github", 通州电视台 (720p) alliptvlinks.com
+http://pull.dayuntongzhou.com/live/tztv.m3u8?checkedby:alliptvlinks.com
