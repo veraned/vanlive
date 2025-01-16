@@ -79,3 +79,29 @@ http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedb
 http://fl1.moveonjoy.com/TBS/index.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1, US | TVLand alliptvlinks.com
 http://fl2.moveonjoy.com/TV_Land/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US MeTV Network East Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/16149?checkedby:alliptvlinks.com
+#EXTINF:-1, US AMC Backup NO_8 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/18925?checkedby:alliptvlinks.com
+#EXTINF:-1, US TRUTV East Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/10224?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Syfy alliptvlinks.com
+http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Discovery Channel alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="US | DOCU", USA | NATIONAL GEOGRAPHIC alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=191860&extension=ts&checkedby:alliptvlinks.com
+#EXTINF:-1, US TNT (West) Backup NO_6 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/46688?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MTV Classic alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
+#EXTINF:-1, US | MeTV Toons alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
+#EXTINF:-1, US Discovery Family alliptvlinks.com
+http://cord-cutter.net:8080/zcJ8BG/214917/57347?checkedby:alliptvlinks.com
+#EXTINF:-1, US | Discovery Channel alliptvlinks.com
+http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedby:alliptvlinks.com
+#EXTINF:-1, US | BBC Earth alliptvlinks.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="github", US Animal Planet Backup NO_10 alliptvlinks.com
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8?checkedby:alliptvlinks.com
