@@ -217,8 +217,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Cam (720p) [Geo-blocked]
-https://amg00442-zmg-amg00442c2-klowdtv-us-2123.playouts.now.amagi.tv/playlist/amg00442-zazoommediagroup-zmgwild-klowdtvus/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="General",BS Nippon TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JP" tvg-logo="" group-title="General;Undefined",TV Tokyo (720p)
