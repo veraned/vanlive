@@ -63,8 +63,6 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8?checkedby:alliptvlinks.com
 http://cord-cutter.net:8080/Rme2Fg/183926/16149?checkedby:alliptvlinks.com
 #EXTINF:-1, US AMC Backup NO_8 alliptvlinks.com
 http://cord-cutter.net:8080/Rme2Fg/183926/18925?checkedby:alliptvlinks.com
-#EXTINF:-1, US TRUTV East Backup NO_6 alliptvlinks.com
-http://cord-cutter.net:8080/Rme2Fg/183926/10224?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="github", US Syfy alliptvlinks.com
 http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1, US | Discovery Channel alliptvlinks.com
@@ -181,3 +179,11 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8?checkedby:alliptvlinks.com
 http://pull.dayuntongzhou.com/live/tztv.m3u8?checkedby:alliptvlinks.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nick Jr. East (720p)
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS Nature
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",WBRA PBS Kids (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8?checkedby:iptvcat.com
