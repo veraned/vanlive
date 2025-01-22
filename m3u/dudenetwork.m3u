@@ -5,7 +5,7 @@ https://kidoodle-tv-dudeperfect-1-nz.samsung.wurl.tv/playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="Animation",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e40
-#EXTINF:-1,History Channel 🇦🇺
+#EXTINF:-1,History Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack" group-title="RedBox🇺🇸: Comedy",Funny or Die
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
@@ -17,12 +17,10 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-#EXTINF:-1,Ryan and Friends 🇦🇺
+#EXTINF:-1,Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tastemade 🇦🇺
+#EXTINF:-1,Tastemade
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Veely_EPGReal Wild" tvg-name="Real Wild" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1061.png?width=700&lang=en" group-title="Veely",Real Wild
-https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8
 #EXTINF:-1,The Three Stooges+
 https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8
 #EXTINF:-1,BBC Food
@@ -33,149 +31,139 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/condenast-bonappetit-vizio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00/3-1x1.png" tvg-id="LN_F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00" group-title="LocalNow🇺🇸: Documentary",BBC Earth
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist/amg00793-bbcstudios-bbcearta-localnowus/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n1=rule_id&ads.v1=2EC1E51A-DED9-47B3-90BB-6457599E8E85-1714500378&ads.n3=qp_content_id&ads.v3=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n4=content_name&ads.v4=BBC%20Earth&ads.n21=device_make&ads.v21=&ads.n22=content_type&ads.v22=channel&ads.n23=app_bundle&ads.v23=&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=content_custom_1_param&ads.v25=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n26=channel_corp&ads.v26=BBC%20Studios%20Americas%20INC&ads.n27=channel_ext_id&ads.v27=&ads.n28=channel_name&ads.v28=BBC%20Earth&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=channel_title&ads.v30=BBC%20Earth&ads.n31=app_version&ads.v31=0.0.0&ads.n32=content_provider&ads.v32=bbc-earth&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=did&ads.v34=&ads.n35=ip&ads.v35=181.215.195.227&ads.n36=device_type&ads.v36=&ads.n37=channel_company_id&ads.v37=AMDP500542&ads.n38=network_name&ads.v38=bbc-earth&ads.n39=ifa_type&ads.v39=&ads.n40=h&ads.v40=1080&ads.n41=channel_brand_id&ads.v41=AMDB013486&ads.n42=app_store_url&ads.v42=&ads.n43=channel_id&ads.v43=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n44=w&ads.v44=1920&ads.n45=channel_language&ads.v45=en&ads.n46=pos&ads.v46=midroll&ads.n47=channel_rating&ads.v47=TV-PG&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=channel_genre&ads.v50=Documentary&ads.n51=device_model&ads.v51=&ads.n52=content_producer_name&ads.v52=BBC%20Studios%20Americas%20INC&ads.n53=content_custom_2_param&ads.v53=AMDB013486&ads.n54=app_name&ads.v54=&ads.n55=dnt&ads.v55=&ads.n56=content_livestream&ads.v56=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/46xqGOwHbh2TH2avWSw3SMXph4E.jpg" group-title="USA", CA Adult Swim R Backup NO_6 alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/46xqGOwHbh2TH2avWSw3SMXph4E.jpg" group-title="USA", Adult Swim
 http://tvmate.icu:8080/vNay0H/219352/11644?checkedby:alliptvlinks.com
-#EXTINF:-1, US | Cartoon Network Backup NO_11 alliptvlinks.com
+#EXTINF:-1, Cartoon Network
 http://84.17.40.25/CARTOON_NETWORK/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="USA | NEWS | REGIONALS", US FOX 11 (KTTV) Los Angeles Backup NO_9 alliptvlinks.com
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS", FOX 11
 http://tvmate.icu:8080/vNay0H/219352/120655?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Hallmark Drama Backup NO_12 alliptvlinks.com
+#EXTINF:-1 group-title="github", Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US HBO Family alliptvlinks.com
+#EXTINF:-1 group-title="github", HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US | MeTV Toons alliptvlinks.com
-http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
-#EXTINF:-1, US | MTV Classic alliptvlinks.com
+#EXTINF:-1, MTV Classic
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US TBS Backup NO_7 alliptvlinks.com
+#EXTINF:-1 group-title="github", TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US | TVLand alliptvlinks.com
+#EXTINF:-1, TVLand
 http://fl2.moveonjoy.com/TV_Land/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US MeTV Network East Backup NO_7 alliptvlinks.com
+#EXTINF:-1, MeTV
 http://cord-cutter.net:8080/Rme2Fg/183926/16149?checkedby:alliptvlinks.com
-#EXTINF:-1, US AMC Backup NO_8 alliptvlinks.com
+#EXTINF:-1, AMC
 http://cord-cutter.net:8080/Rme2Fg/183926/18925?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Syfy alliptvlinks.com
+#EXTINF:-1 group-title="github", Syfy
 http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US | Discovery Channel alliptvlinks.com
-http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="US | DOCU", USA | NATIONAL GEOGRAPHIC alliptvlinks.com
+#EXTINF:-1 group-title="US | DOCU", NATIONAL GEOGRAPHIC
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=191860&extension=ts&checkedby:alliptvlinks.com
-#EXTINF:-1, US TNT (West) Backup NO_6 alliptvlinks.com
+#EXTINF:-1, TNT
 http://cord-cutter.net:8080/Rme2Fg/183926/46688?checkedby:alliptvlinks.com
-#EXTINF:-1, US | MTV Classic alliptvlinks.com
+#EXTINF:-1, MTV Classic
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
-#EXTINF:-1, US | MeTV Toons alliptvlinks.com
+#EXTINF:-1, MeTV Toons
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
-#EXTINF:-1, US Discovery Family alliptvlinks.com
+#EXTINF:-1, Discovery Family
 http://cord-cutter.net:8080/zcJ8BG/214917/57347?checkedby:alliptvlinks.com
-#EXTINF:-1, US | Discovery Channel alliptvlinks.com
+#EXTINF:-1, Discovery Channel
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/418001?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Animal Planet Backup NO_10 alliptvlinks.com
+#EXTINF:-1 group-title="github", Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="USA", CA Turner Classic Movies Backup NO_5 alliptvlinks.com
+#EXTINF:-1 group-title="USA", Turner Classic Movies
 http://tvmate.icu:8080/vNay0H/219352/66242?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Kids", DISNEY XD Backup NO_2 alliptvlinks.com
+#EXTINF:-1 group-title="Kids", DISNEY XD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="DELUXE", MGM HITS (US) alliptvlinks.com
+#EXTINF:-1 group-title="DELUXE", MGM HITS
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12759?checkedby:alliptvlinks.com
-#EXTINF:-1, US | ABC Backup NO_1 alliptvlinks.com
+#EXTINF:-1, ABC
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419890?checkedby:alliptvlinks.com
-#EXTINF:-1, US BBC America Backup NO_10 alliptvlinks.com
+#EXTINF:-1,BBC
 http://cord-cutter.net:8080/Rme2Fg/183926/20194?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US BET Her Backup NO_6 alliptvlinks.com
-http://212.102.60.231/BET_HER/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US Big Ten HD Backup NO_9 alliptvlinks.com
+#EXTINF:-1, Big Ten
 http://cord-cutter.net:8080/Rme2Fg/183926/9828?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Bounce alliptvlinks.com
+#EXTINF:-1 group-title="github", Bounce
 http://72.46.118.193/Bounce/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US Bravo (East) Backup NO_9 alliptvlinks.com
+#EXTINF:-1, Bravo
 http://cord-cutter.net:8080/Rme2Fg/183926/20859?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US CBS Boston alliptvlinks.com
+#EXTINF:-1 group-title="github", CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US CBS Sports Network HD Backup NO_8 alliptvlinks.com
+#EXTINF:-1, CBS Sports
 http://cord-cutter.net:8080/Rme2Fg/183926/10454?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="SAMSUNG", USA TYT NETWORK alliptvlinks.com
+#EXTINF:-1 group-title="SAMSUNG", TYT NETWORK
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="PLEX", USA DOCURAMA alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", DOCURAMA
 https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de4e0b3f5003f5d9f73&checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="PLEX", USA DOCURAMA alliptvlinks.com
-https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de4e0b3f5003f5d9f73&checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="PLEX", USA COMEDY DYNAMICS alliptvlinks.com
+#EXTINF:-1 group-title="PLEX", COMEDY DYNAMICS
 https://comedydynamics-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-comedydynamics-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de5e0b3f5003f5d9f76&checkedby:alliptvlinks.com
-#EXTINF:-1, USA: CMT Backup NO_9 alliptvlinks.com
+#EXTINF:-1, CMT
 http://cord-cutter.net:8080/Rme2Fg/183926/46706?checkedby:alliptvlinks.com
-#EXTINF:-1, US Universal Kids (A) Backup NO_6 alliptvlinks.com
+#EXTINF:-1, Universal Kids
 http://cord-cutter.net:8080/Rme2Fg/183926/9235?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US TLC alliptvlinks.com
+#EXTINF:-1 group-title="github", TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US SUNDANCE Backup NO_7 alliptvlinks.com
+#EXTINF:-1, SUNDANCE
 http://cord-cutter.net:8080/Rme2Fg/183926/46712?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Starz alliptvlinks.com
+#EXTINF:-1 group-title="github", Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US Smithsonian Channel (East) Backup NO_7 alliptvlinks.com
+#EXTINF:-1, Smithsonian Channel
 http://cord-cutter.net:8080/Rme2Fg/183926/31150?checkedby:alliptvlinks.com
-#EXTINF:-1, US Showtime East Backup NO_7 alliptvlinks.com
+#EXTINF:-1, Showtime
 http://cord-cutter.net:8080/Rme2Fg/183926/46214?checkedby:alliptvlinks.com
-#EXTINF:-1, US Paramount Network Backup NO_12 alliptvlinks.com
+#EXTINF:-1, Paramount Network
 http://cord-cutter.net:8080/Rme2Fg/183926/16201?checkedby:alliptvlinks.com
-#EXTINF:-1, US Oxygen (East) Backup NO_7 alliptvlinks.com
+#EXTINF:-1, Oxygen
 http://cord-cutter.net:8080/Rme2Fg/183926/9245?checkedby:alliptvlinks.com
-#EXTINF:-1, US | NBC alliptvlinks.com
+#EXTINF:-1, NBC
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/419895?checkedby:alliptvlinks.com
-#EXTINF:-1, US Nat Geo Wild East (A) Backup NO_7 alliptvlinks.com
+#EXTINF:-1, Nat Geo Wild
 http://cord-cutter.net:8080/Rme2Fg/183926/11664?checkedby:alliptvlinks.com
-#EXTINF:-1, US | Investigation Discovery Backup NO_1 alliptvlinks.com
+#EXTINF:-1, Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US HGTV alliptvlinks.com
+#EXTINF:-1 group-title="github", HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US HBO Backup NO_7 alliptvlinks.com
+#EXTINF:-1, HBO
 http://cord-cutter.net:8080/hq3y4G/234247/9264?checkedby:alliptvlinks.com
-#EXTINF:-1, US Golf Channel Backup NO_14 alliptvlinks.com
+#EXTINF:-1, Golf Channel
 http://cord-cutter.net:8080/Rme2Fg/183926/46728?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="USA", US Game Show Network Backup NO_9 alliptvlinks.com
+#EXTINF:-1 group-title="USA", Game Show Network
 http://tvmate.icu:8080/vNay0H/219352/120633?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US FXX alliptvlinks.com
+#EXTINF:-1 group-title="github", FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Freeform alliptvlinks.com
+#EXTINF:-1 group-title="github", Freeform
 http://212.102.60.231/FREE_FORM/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Food Network alliptvlinks.com
+#EXTINF:-1 group-title="github", Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US ESPNU alliptvlinks.com
+#EXTINF:-1 group-title="github", ESPNU
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US ESPN 2 Backup NO_8 alliptvlinks.com
+#EXTINF:-1, ESPN 2
 http://cord-cutter.net:8080/hq3y4G/234247/2210?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Disney Junior alliptvlinks.com
+#EXTINF:-1 group-title="github", Disney Junior
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Disney Channel alliptvlinks.com
+#EXTINF:-1 group-title="github", Disney Channel
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1, US | Cozi TV alliptvlinks.com
+#EXTINF:-1, Cozi TV
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/509090?checkedby:alliptvlinks.com
-#EXTINF:-1, US Court TV Backup NO_8 alliptvlinks.com
+#EXTINF:-1, Court TV
 http://cord-cutter.net:8080/Rme2Fg/183926/21092?checkedby:alliptvlinks.com
-#EXTINF:-1, US Comet (S) Backup NO_15 alliptvlinks.com
+#EXTINF:-1, Comet
 http://cord-cutter.net:8080/Rme2Fg/183926/66244?checkedby:alliptvlinks.com
-#EXTINF:-1, US Comedy Central (East) Backup NO_5 alliptvlinks.com
+#EXTINF:-1, Comedy Central
 http://cord-cutter.net:8080/hq3y4G/234247/7466?checkedby:alliptvlinks.com
-#EXTINF:-1, US CNN Backup NO_1 alliptvlinks.com
+#EXTINF:-1, CNN
 http://cord-cutter.net:8080/X5xRz0/944877/104884?checkedby:alliptvlinks.com
-#EXTINF:-1, US CNBC Backup NO_8 alliptvlinks.com
+#EXTINF:-1, CNBC
 http://cord-cutter.net:8080/Rme2Fg/183926/9815?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US Cinemax alliptvlinks.com
+#EXTINF:-1 group-title="github", Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="USA", US VICELAND Backup NO_7 alliptvlinks.com
+#EXTINF:-1 group-title="USA", VICELAND
 http://tvmate.icu:8080/vNay0H/219352/46697?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="github", US USA Network alliptvlinks.com
+#EXTINF:-1 group-title="github", USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="China github", 通州电视台 (720p) alliptvlinks.com
-http://pull.dayuntongzhou.com/live/tztv.m3u8?checkedby:alliptvlinks.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nick Jr. East (720p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nick Jr.
 https://fl2.moveonjoy.com/NICK_JR/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS National East (1080p) [Geo-blocked]
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS National East
 https://pbs.lls.cdn.pbs.org/est/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PBS Nature
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",WBRA PBS Kids (1080p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8?checkedby:iptvcat.com
