@@ -5,7 +5,7 @@ https://kidoodle-tv-dudeperfect-1-nz.samsung.wurl.tv/playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="Animation",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e40
-#EXTINF:-1,History 🇦🇺
+#EXTINF:-1,History Channel 🇦🇺
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack" group-title="RedBox🇺🇸: Comedy",Funny or Die
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
@@ -23,24 +23,16 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Veely_EPGReal Wild" tvg-name="Real Wild" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1061.png?width=700&lang=en" group-title="Veely",Real Wild
 https://lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8
-#EXTINF:-1,The Three Stooges+ (Geo)
+#EXTINF:-1,The Three Stooges+
 https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8
 #EXTINF:-1,BBC Food
 https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
 #EXTINF:-1,Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
-#EXTINF:-1,Bon Appétit (Geo)
+#EXTINF:-1,Bon Appétit
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/condenast-bonappetit-vizio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00/3-1x1.png" tvg-id="LN_F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00" group-title="LocalNow🇺🇸: Documentary",BBC Earth
 https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist/amg00793-bbcstudios-bbcearta-localnowus/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n1=rule_id&ads.v1=2EC1E51A-DED9-47B3-90BB-6457599E8E85-1714500378&ads.n3=qp_content_id&ads.v3=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n4=content_name&ads.v4=BBC%20Earth&ads.n21=device_make&ads.v21=&ads.n22=content_type&ads.v22=channel&ads.n23=app_bundle&ads.v23=&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=content_custom_1_param&ads.v25=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n26=channel_corp&ads.v26=BBC%20Studios%20Americas%20INC&ads.n27=channel_ext_id&ads.v27=&ads.n28=channel_name&ads.v28=BBC%20Earth&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=channel_title&ads.v30=BBC%20Earth&ads.n31=app_version&ads.v31=0.0.0&ads.n32=content_provider&ads.v32=bbc-earth&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=did&ads.v34=&ads.n35=ip&ads.v35=181.215.195.227&ads.n36=device_type&ads.v36=&ads.n37=channel_company_id&ads.v37=AMDP500542&ads.n38=network_name&ads.v38=bbc-earth&ads.n39=ifa_type&ads.v39=&ads.n40=h&ads.v40=1080&ads.n41=channel_brand_id&ads.v41=AMDB013486&ads.n42=app_store_url&ads.v42=&ads.n43=channel_id&ads.v43=F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00&ads.n44=w&ads.v44=1920&ads.n45=channel_language&ads.v45=en&ads.n46=pos&ads.v46=midroll&ads.n47=channel_rating&ads.v47=TV-PG&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=channel_genre&ads.v50=Documentary&ads.n51=device_model&ads.v51=&ads.n52=content_producer_name&ads.v52=BBC%20Studios%20Americas%20INC&ads.n53=content_custom_2_param&ads.v53=AMDB013486&ads.n54=app_name&ads.v54=&ads.n55=dnt&ads.v55=&ads.n56=content_livestream&ads.v56=1
-#EXTINF:-1,LocalNow - Cleveland (US) Geo
-https://amg01583-localnow-amg01583c18-lg-us-1424.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowcleveland-lgus/playlist.m3u8
-#EXTINF:-1,LocalNow - Minneapolis (US) Geo
-https://amg01583-localnow-amg01583c13-lg-us-1421.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowminneapolis-lgus/playlist.m3u8
-#EXTINF:-1,LocalNow - Tampa (US) Geo
-https://amg01583-localnow-amg01583c10-lg-us-1419.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowtampa-lgus/playlist.m3u8
-#EXTINF:-1,LocalNow - Seattle (US) Geo
-https://amg01583-localnow-amg01583c15-lg-us-1425.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowseattle-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/46xqGOwHbh2TH2avWSw3SMXph4E.jpg" group-title="USA", CA Adult Swim R Backup NO_6 alliptvlinks.com
 http://tvmate.icu:8080/vNay0H/219352/11644?checkedby:alliptvlinks.com
 #EXTINF:-1, US | Cartoon Network Backup NO_11 alliptvlinks.com
