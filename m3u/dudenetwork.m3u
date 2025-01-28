@@ -17,16 +17,12 @@ https://list.iptvcat.com/my_list/s/bcbbdf635afdc3df620d674b24361863.m3u8
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-#EXTINF:-1,Ryan and Friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tastemade
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
 #EXTINF:-1,The Three Stooges+
 https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8
 #EXTINF:-1,BBC Food
 https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
-#EXTINF:-1,Tastemade
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 #EXTINF:-1,Bon Appétit
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/condenast-bonappetit-vizio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00/3-1x1.png" tvg-id="LN_F5F1E8FC-3EB4-451A-A7E6-08EB8D15CA00" group-title="LocalNow🇺🇸: Documentary",BBC Earth
