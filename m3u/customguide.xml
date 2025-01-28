@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <!-- Dude Perfect has no guide -->
-  <!-- MCN6 Music Channel has no guide -->
-  <!-- Movies for Gamers has no guide -->
-<channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">History</channel>
+  <!-- Dude Perfect -->
+  <!-- MCN6 Music Channel -->
+  <!-- Movies for Gamers -->
+  <channel site="tvguide.com" lang="en" xmltv_id="HistoryEast.us" site_id="9233008002">History</channel>
+  <!-- Funny or Die -->
+  <!-- Adult Swim Infomercials -->
+  <channel site="tvguide.com" lang="en" xmltv_id="NickelodeonEast.us" site_id="9200006939">Nickelodeon</channel>
 </channels>
