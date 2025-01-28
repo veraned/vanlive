@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://veraned.github.io/vanlive/logos/dudenation.png",Dude Perfect
 https://kidoodle-tv-dudeperfect-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Animation;Kids;Music",MCN6 Music Channel
-https://list.iptvcat.com/my_list/s/90c83e1989a0e08ba101b47d3bcfd006.m3u8
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="Animation",Movies for Gamers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e40
+https://list.iptvcat.com/my_list/s/90c83e1989a0e08ba101b47d3bcfd006.m3u8
 #EXTINF:-1,History Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack" group-title="RedBox🇺🇸: Comedy",Funny or Die
@@ -12,7 +12,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u
 #EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment",Adult Swim Infomercials
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon East
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://list.iptvcat.com/my_list/s/bcbbdf635afdc3df620d674b24361863.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel
