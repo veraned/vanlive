@@ -3,8 +3,8 @@
 https://kidoodle-tv-dudeperfect-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Animation;Kids;Music",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="Animation",Movies for Gamers
-https://list.iptvcat.com/my_list/s/90c83e1989a0e08ba101b47d3bcfd006.m3u8
+#EXTINF:-1 tvg-country="US" group-title="English github", Movies for Gamers alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0&checkedby:alliptvlinks.com
 #EXTINF:-1,History Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack" group-title="RedBox🇺🇸: Comedy",Funny or Die
@@ -51,8 +51,6 @@ http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=191860&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1, TNT
 http://cord-cutter.net:8080/Rme2Fg/183926/46688?checkedby:alliptvlinks.com
-#EXTINF:-1, MTV Classic
-http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/417897?checkedby:alliptvlinks.com
 #EXTINF:-1, MeTV Toons
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/648108?checkedby:alliptvlinks.com
 #EXTINF:-1, Discovery Family
@@ -161,3 +159,5 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8?checkedby:iptvcat.com
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949

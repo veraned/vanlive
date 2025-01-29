@@ -26,7 +26,7 @@
   <channel site="tvguide.com" lang="en" xmltv_id="SyfyEast.us" site_id="9200004316">Syfy</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="NationalGeographicEast.us" site_id="9233002310">National Geographic</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="TNTEast.us" site_id="9233011830">TNT</channel>
-  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="metv-toons">MeTV Toons</channel>
+  <!-- MTV Toons-->
   <channel site="dstv.com" lang="en" xmltv_id="" site_id="mli#136">Discovery Family HD</channel>
   <channel site="dstv.com" lang="en" xmltv_id="" site_id="com#121">Discovery Channel HD</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="hgtv_go/epg#167">Animal Planet</channel>
@@ -41,4 +41,43 @@
   <channel site="tvguide.com" lang="en" xmltv_id="CBSEast.us" site_id="9200018514">CBS National</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="CBSSportsNetworkUSA.us" site_id="9233013235">CBS Sports Network</channel>
   <channel site="xumo.tv" lang="en" xmltv_id="TYTNetwork.us" site_id="0#99991147">TYT</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Docurama.us" site_id="110479">Docurama</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="" site_id="100#99991190">Comedy Dynamics</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="CMT.au" site_id="Foxtel/epg#CMT">CMT</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="UniversalKidsEast.us" site_id="9233003660">Universal Kids</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="hgtv_go/epg#161">TLC</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SundanceTVEast.us" site_id="9233001687">Sundance TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="StarzCinemaEast.us" site_id="9233008357">STARZ Cinema</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="SmithsonianChannelEast.us" site_id="9233002112">Smithsonian</channel>
+  <channel site="directv.com" lang="en" xmltv_id="ShowtimeEast.us" site_id="545#1968">Showtime</channel>
+  <channel site="tv.blue.ch" lang="en" xmltv_id="" site_id="2034">Paramount+</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="OxygenEast.us" site_id="9200004949">Oxygen</channel>
+  <channel site="directv.com" lang="en" xmltv_id="" site_id="393#383">NBC</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NationalGeographicWildEast.us" site_id="9200004683">National Geographic Wild</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="InvestigationDiscoveryEast.us" site_id="9200002243">Investigation Discovery</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HGTVEast.us" site_id="9233004104">HGTV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HBOEast.us" site_id="9200004886">HBO</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="GolfChannel.us" site_id="9233005443">Golf</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="GameShowNetworkEast.us" site_id="9200019858">Game Show Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FXXEast.us" site_id="9200018644">FXX</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FreeformEast.us" site_id="9200006942">Freeform</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoodNetworkEast.us" site_id="9233009448">Food Network</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPNU.us" site_id="9233011350">ESPNU</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us" site_id="9200012351">ESPN2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyJuniorEast.us" site_id="9233009788">Disney Junior</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="DisneyChannelEast.us" site_id="9200018475">Disney</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="CoziTV.us" site_id="78851">Cozi TV</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="CourtTV.us" site_id="100#99991713">Court TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="Comet.us" site_id="97051">Comet</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="" site_id="64f8a408bd341e000818fcda">Comedy Central</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Flash/epg#cnn">CNN</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Flash/epg#cnbc">CNBC</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CinemaxEast.us" site_id="9233009829">Cinemax</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="VICETV.us" site_id="9233002242">VICE</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="usa-network">USA Network</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="" site_id="65652f7fc0fc88000883537a">Crunchyroll</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NickJrEast.us" site_id="9233007153">Nick Jr.</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="PBSEast.us" site_id="9233004141">PBS HD</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="" site_id="100#99951195">PBS Nature</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="" site_id="sdn#313">PBS Kids</channel>
 </channels>
