@@ -161,3 +161,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/e5W91v2.png" group-title="Comedy",Humor Mill TV (1080p)
+https://du1gyxfing4ke.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-HumorMill/152.m3u8
